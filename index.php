@@ -10,10 +10,10 @@
     <center>
         <div id="mainCentreBox">
             <br />
-            <a href="http://46.101.18.121/SVRPGOrder/"><img id="logo" onmouseover="imageHover('logo');" onmouseout="imageUnHover('logo');" src="http://46.101.18.121/SVRPGOrder/img/logo.png" width="300" /><br /><br /></a>
+            <a href=""><img id="logo" onmouseover="imageHover('logo');" onmouseout="imageUnHover('logo');" src="/img/logo.png" width="300" /><br /><br /></a>
             <hr />
-            <a href="http://46.101.18.121/SVRPGOrder/"><img src="http://46.101.18.121/SVRPGOrder/img/Homepage_Button.png" id="Homepage_Button" class="buttons" onmouseover="imageHover('Homepage_Button');" onmouseout="imageUnHover('Homepage_Button');" /></a>
-            <a href="http://46.101.18.121/SVRPGOrder/HowItWorks.php"><img src="http://46.101.18.121/SVRPGOrder/img/How_It_Works_Button.png" id="How_It_Works_Button" class="buttons" onmouseover="imageHover('How_It_Works_Button'); " onmouseout="imageUnHover('How_It_Works_Button');" /></a>
+            <a href=""><img src="/img/Homepage_Button.png" id="Homepage_Button" class="buttons" onmouseover="imageHover('Homepage_Button');" onmouseout="imageUnHover('Homepage_Button');" /></a>
+            <a href="HowItWorks.php"><img src="/img/How_It_Works_Button.png" id="How_It_Works_Button" class="buttons" onmouseover="imageHover('How_It_Works_Button'); " onmouseout="imageUnHover('How_It_Works_Button');" /></a>
 
             <hr /><br />
             <font id="welcomeFont">Welcome to the homepage of Joe's Minerals. Here you can buy minerals for the SA:MP server Spring Vale RPG.</font>
@@ -45,7 +45,7 @@
 
                 <br /><br />
                 <font id="copyrightBox">Background texture from subtlepatterns.com</font><br /><br />
-                <a href="http://www.zoneo.co.vu/"><img src="http://46.101.18.121/SVRPGOrder/img/zoneo_logo_orange.png" width="30" /></a>
+                <a href="http://www.zoneo.co.vu/"><img src="/img/zoneo_logo_orange.png" width="30" /></a>
                 <br />
 </div>
     </center>
