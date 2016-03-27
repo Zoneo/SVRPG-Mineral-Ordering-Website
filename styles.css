@@ -1,0 +1,73 @@
+﻿body {
+    background-image:url("http://46.101.18.121/SVRPGOrder/img/background_texture.png");
+    
+}
+
+.buttons {
+    width:200px;
+    
+}
+
+.stepImages {
+    width:50px;
+    position:absolute;
+    left:17%;
+    
+}
+
+.stepFont {
+    position:absolute;
+    left:22%;
+    text-wrap:normal;
+}
+
+.formFont {
+    float:left;
+}
+
+#mainCentreBox {
+    height:80%;
+    width:70%;
+    margin-top:50px;
+    margin-bottom:30px;
+    background-color:#F5F1DE;
+    color:black;
+    box-shadow: -1px 0 14px 9px rgba(245, 241, 222,1);
+
+}
+
+#copyrightBox {
+    margin-bottom:5px;
+    font-size:9px;
+}
+
+#welcomeFont {
+    font-size:14px
+}
+
+#header {
+    font-size:23px;
+}
+
+#formBox {
+    background-color:blue;
+    width:40%;
+}
+
+#stepsTable {
+    width:auto;
+}
+
+#innerMainCentreBox {
+    width:auto;
+    height:auto;
+    overflow:hidden;
+}
+
+#step1Image {
+    width:60px;
+}
+
+#step2Image {
+    width:60px;
+}
